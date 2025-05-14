@@ -9,7 +9,7 @@
 ### 💡 About Me
 
 - 🔭 I’m currently building **[D Den](https://d-den.in)** – a fashion-tech platform empowering young designers with AI & community.
-- 👨‍💻 See my portfolio at **https://pavansohith.dev)**
+- 👨‍💻 See my portfolio at **https://pavansohith.dev**
 - 🌱 Learning: **High Performance Computing, AI for Design Recommendation, Prisma/GraphQL**
 - 💬 Ask me about: `Node.js`, `Prisma`, `React`, `TailwindCSS`, `TypeScript`, `AWS`, `PostgreSQL`
 - 📫 Reach me: `queries.tillusspell@gmail.com`
