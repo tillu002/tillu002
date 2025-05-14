@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,prisma,postgres,aws,docker,git,vscode,python,java,kubernetes,redis,linux,recoil,mongodb,hono,nextjs,express,postman" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,prisma,postgres,aws,docker,git,vscode,python,java,kubernetes,redis,linux,redux,mongodb,hono,nextjs,express,postman" />
 </div>
 
 ---
