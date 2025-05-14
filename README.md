@@ -2,7 +2,7 @@
 <img src="https://readme-hero.vercel.app/api?name=Your+Name&description=Creative+Fullstack+Developer+%7C+FashionTech+Founder+%7C+AI-Enthusiast&linkedin=your-linkedin&github=your-username&twitter=your-twitter&portfolio=your-portfolio.com&background=gradient" alt="hero-banner" style="width: 100%;" />
 
 <h1 align="center">Hi 👋, I'm This is Pavan Sohith</h1>
-<h3 align="center">🚀 A creative full-stack developer & founder of <b>D Den</b>, building the future of student-led fashion in India 🇮🇳</h3>
+<h3 align="center">🚀 A creative full-stack developer & developer of <b>D Den</b>, building the future of student-led fashion in India 🇮🇳</h3>
 
 ---
 
