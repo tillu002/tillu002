@@ -28,9 +28,9 @@
 ### 📈 GitHub Stats & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tillu002&show_icons=true&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=tillu002&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tillu002&theme=github-compact&hide_border=true" />
 </p>
 
 ---
