@@ -1,28 +1,76 @@
-<!-- Banner / Hero Image with Typing Animation --> 
-<p align="center"> <img src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764523_1280.jpg" alt="hero-banner" width="25%" /> </p> <h1 align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Pavan+Sohith;Welcome+to+my+GitHub!" alt="Typing SVG" /> </a> </h1> <h3 align="center">🚀 A creative full-stack developer & developer of <b>D Den</b>, building the future of student-led fashion in India 🇮🇳</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=tillu002&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p> <!-- Animated Divider --> <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> </p>
-💡 About Me
-<img align="right" height="220" width="300" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
-🔭 I'm currently building D Den – a fashion-tech platform empowering young designers with AI & community.
-👨‍💻 See my portfolio at https://pavansohith.dev
-🌱 Learning: High Performance Computing, AI for Design Recommendation, Prisma/GraphQL
-💬 Ask me about: Node.js, Prisma, React, TailwindCSS, TypeScript, AWS, PostgreSQL
-📫 Reach me: queries.tillusspell@gmail.com
-⚡ Fun Fact: I sketch fashion concepts and write TypeScript in the same coffee-fueled night.
-<!-- Animated Divider --> <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20Developer;Fashion%20Tech%20Innovator;UI/UX%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"> </a> </p>
-🛠️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,prisma,postgres,aws,docker,git,vscode,python,java,kubernetes,redis,linux,redux,mongodb,nextjs,express,postman" /> </div> <!-- Animated Snake contribution graph --> <div align="center"> <img src="https://github.com/tillu002/tillu002/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-📈 GitHub Stats & Contribution Graph
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tillu002&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=f75c7e&bg_color=0d1117" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=tillu002&theme=radical&hide_border=true&background=0d1117&ring=f75c7e&fire=f75c7e&currStreakLabel=f75c7e" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tillu002&layout=compact&theme=radical&hide_border=true&title_color=f75c7e&bg_color=0d1117" /> </p> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tillu002&theme=tokyo-night&hide_border=true" /> </a>
-🧠 Notable Projects
-<div align="center"> <table> <tr> <td width="50%"> <h3 align="center">D Den</h3> <p align="center"> <a href="https://d-den.in" target="_blank"> <img src="https://cdn.dribbble.com/users/2514124/screenshots/6617938/fashion_app_dribbble.gif" width="100%" alt="D Den"/> </a> <p align="center"> Fashion-tech platform for students & designers to showcase, earn, and get recruited. <br> <span> <a href="https://d-den.in" target="_blank"> <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=f75c7e"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Source-yellow?style=for-the-badge&color=0e75b6"/> </a> </span> </p> </p> </td> <td width="50%"> <h3 align="center">AI Resume Scanner</h3> <p align="center"> <a href="#" target="_blank"> <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/8866a5c121d21661862e34b318aeafa8.gif" width="100%" alt="AI Resume Scanner"/> </a> <p align="center"> ATS-powered resume scanner with smart feedback. <br> <span> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=f75c7e"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Source-yellow?style=for-the-badge&color=0e75b6"/> </a> </span> </p> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">Portfolio Website</h3> <p align="center"> <a href="https://pavansohith.dev" target="_blank"> <img src="https://cdn.dribbble.com/users/1299339/screenshots/14101681/media/8866a5c121d21661862e34b318aeafa8.gif" width="100%" alt="Portfolio"/> </a> <p align="center"> Interactive portfolio site with glassmorphism + motion UI. <br> <span> <a href="https://pavansohith.dev" target="_blank"> <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=f75c7e"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Source-yellow?style=for-the-badge&color=0e75b6"/> </a> </span> </p> </p> </td> <td width="50%"> <h3 align="center">Fashion AI</h3> <p align="center"> <a href="#" target="_blank"> <img src="https://cdn.dribbble.com/users/2514124/screenshots/6617938/fashion_app_dribbble.gif" width="100%" alt="Fashion AI"/> </a> <p align="center"> AI-powered fashion recommendation engine. <br> <span> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Live-green?style=for-the-badge&color=f75c7e"/> </a> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-Source-yellow?style=for-the-badge&color=0e75b6"/> </a> </span> </p> </p> </td> </tr> </table> </div>
-🏆 Certifications
-<div align="center"> <a href="#"> <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner"/> </a> <a href="#"> <img src="https://img.shields.io/badge/Meta%20Frontend%20Developer-0056D2?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Frontend Developer"/> </a> <a href="#"> <img src="https://img.shields.io/badge/IIT%20Kharagpur%20HPC%20Program-FF6B00?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Kharagpur HPC Program"/> </a> </div> <!-- Animated Divider --> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-📄 AI-Powered Job Matching in Fashion Tech
-📄 10x Productivity with React Query + Prisma
-<!-- BLOG-POST-LIST:END --> <!-- Animated Spotify Playing --> <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ghwa7jfsj3ywurlk3qacpe6e5e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" width="350" /> </div>
-🤝 Let's Connect
-<div align="center"> <a href="mailto:queries.tillusspell@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://www.linkedin.com/in/your-profile/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://pavansohith.dev"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> <a href="https://twitter.com/your-handle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </div> <!-- Animated Footer Wave --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%">
-📌 Quote that inspires me
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/> </div> <!-- GitHub Profile Trophy --> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=tillu002&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/> </p> <!-- Animated Footer --> <p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"> </p>
+# Pavan Sohith  
+**Full Stack Engineer**
+
+Full-stack web engineer focused on building scalable, production-ready systems using modern web technologies.  
+I enjoy owning features end-to-end — from database design to backend APIs to clean, usable UIs.
+
+---
+
+## About Me
+
+- Currently working as a **Full-Stack Developer Intern** at **Micro-Nano R&D Center, Parul University**
+- Strong experience with **MERN stack**, PostgreSQL, Prisma, and modern DevOps tooling
+- Interested in **system design**, performance optimization, and real-world problem solving
+- Portfolio: **https://www.pavansohith.com**
+- GitHub: https://github.com/tillu002
+
+---
+
+## Tech Stack
+
+**Frontend**
+- React, Next.js  
+- TypeScript, JavaScript  
+- Tailwind CSS  
+
+**Backend**
+- Node.js, Express  
+- Prisma ORM  
+- PostgreSQL, MongoDB  
+
+**DevOps / Tools**
+- Docker, Kubernetes  
+- Redis, Kafka  
+- Git, Postman, Grafana  
+- AWS  
+
+---
+
+## Professional Experience
+
+**Full-Stack Developer Intern**  
+*Micro-Nano Research & Development Center, Parul University*  
+_Feb 2025 – Present_
+
+- Built and deployed a complete **resource booking system** used by students, faculty, and industry users  
+- Designed booking workflows, admin approvals, scheduling, and pricing logic  
+- Integrated **Easebuzz payment gateway** for secure real-time transactions  
+- Owned the system end-to-end: frontend, backend, database design, and deployment  
+
+---
+
+## Selected Work
+
+- **D Den** — Full-stack platform for fashion designers  
+  *Freelance project (BETA)*  
+  MERN stack application with AI-powered recommendations, designer portfolios, and recruiter discovery
+
+- **PUMNRDC Resource Booking System**  
+  Built during internship for Parul University  
+  A production system for booking high-value lab equipment with payments, admin workflows, and analytics
+
+- **Research & Development Cell Website**  
+  Developed a university-level website with integrated **resource booking and management system**
+
+---
+
+## Contact
+
+- **Email:** queries.tillusspell@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/pavansohith  
+- **Instagram:** https://instagram.com/your-handle  
+- **Portfolio:** https://www.pavansohith.com
+
+---
+
+> I value clean architecture, readable code, and systems that scale beyond demos.
