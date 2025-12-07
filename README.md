@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/pavansohith" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/your-handle" target="_blank">
+  <a href="https://instagram.com/tillu002" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
   <a href="https://leetcode.com/tillu002/" target="_blank">
