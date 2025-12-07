@@ -1,76 +1,100 @@
-# Pavan Sohith  
-**Full Stack Engineer**
+<h1 align="center">Pavan Sohith</h1>
 
-Full-stack web engineer focused on building scalable, production-ready systems using modern web technologies.  
-I enjoy owning features end-to-end — from database design to backend APIs to clean, usable UIs.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=480&lines=Full+Stack+Engineer;Building+Scalable+Web+Systems;MERN+%7C+PostgreSQL+%7C+Prisma;Learning+Systems+%26+Design" />
+</p>
+
+<p align="center">
+  Full Stack Engineer focused on building scalable, production-grade web applications  
+</p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Currently working as a **Full-Stack Developer Intern** at **Micro-Nano R&D Center, Parul University**
-- Strong experience with **MERN stack**, PostgreSQL, Prisma, and modern DevOps tooling
-- Interested in **system design**, performance optimization, and real-world problem solving
+- Full-Stack Developer Intern at **Micro-Nano R&D Center, Parul University**
+- Strong experience in **MERN stack**, PostgreSQL, Prisma, and DevOps tooling
+- Interested in **system design, performance, and backend-heavy architectures**
 - Portfolio: **https://www.pavansohith.com**
-- GitHub: https://github.com/tillu002
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Frontend**
-- React, Next.js  
-- TypeScript, JavaScript  
-- Tailwind CSS  
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux" />
+</p>
 
-**Backend**
-- Node.js, Express  
-- Prisma ORM  
-- PostgreSQL, MongoDB  
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis,kafka" />
+</p>
 
-**DevOps / Tools**
-- Docker, Kubernetes  
-- Redis, Kafka  
-- Git, Postman, Grafana  
-- AWS  
+### DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,linux,postman,grafana" />
+</p>
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 **Full-Stack Developer Intern**  
 *Micro-Nano Research & Development Center, Parul University*  
 _Feb 2025 – Present_
 
-- Built and deployed a complete **resource booking system** used by students, faculty, and industry users  
-- Designed booking workflows, admin approvals, scheduling, and pricing logic  
+- Developed and deployed a **resource booking platform** for lab equipment worth multiple crores  
+- Built user booking flows, admin approval dashboards, and scheduling logic  
 - Integrated **Easebuzz payment gateway** for secure real-time transactions  
-- Owned the system end-to-end: frontend, backend, database design, and deployment  
+- Owned frontend, backend, database schema, and deployments end-to-end  
 
 ---
 
-## Selected Work
+## 🚀 Selected Work
 
-- **D Den** — Full-stack platform for fashion designers  
-  *Freelance project (BETA)*  
-  MERN stack application with AI-powered recommendations, designer portfolios, and recruiter discovery
+- **D Den**  
+  *Freelance Project (BETA)*  
+  Full-stack fashion-tech platform connecting designers with recruiters using AI-powered recommendations
 
-- **PUMNRDC Resource Booking System**  
-  Built during internship for Parul University  
-  A production system for booking high-value lab equipment with payments, admin workflows, and analytics
+- **PUMNRDC – Resource Booking System**  
+  Built during internship for **Parul University**  
+  Production-ready system with payments, admin controls, availability tracking, and revenue workflows
 
 - **Research & Development Cell Website**  
-  Developed a university-level website with integrated **resource booking and management system**
+  University website with integrated **resource booking and management system**
 
 ---
 
-## Contact
+## 🧠 Problem Solving
 
-- **Email:** queries.tillusspell@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pavansohith  
-- **Instagram:** https://instagram.com/your-handle  
-- **Portfolio:** https://www.pavansohith.com
+<p>
+  <a href="https://leetcode.com/tillu002/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-tillu002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
-> I value clean architecture, readable code, and systems that scale beyond demos.
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:queries.tillusspell@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pavansohith">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-handle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/tillu002">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Clean architecture, readable code, and systems that scale beyond demos.</em>
+</p>
