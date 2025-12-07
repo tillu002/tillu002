@@ -1,23 +1,30 @@
 <h1 align="center">Pavan Sohith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=23&pause=1100&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;Building+Production-Grade+Web+Systems;PERN+Stack+%7C+PostgreSQL+%7C+Prisma;Systems+Thinking+%7C+Scalable+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=23&pause=1200&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;Building+Production-Grade+Web+Systems;PERN+Stack+%7C+PostgreSQL+%7C+Prisma;Systems+Thinking+%7C+Scalable+Design" />
 </p>
 
 <p align="center">
   <strong>Full Stack Engineer</strong> focused on real-world systems, scalability, and clean architecture
 </p>
 
+<!-- Modern social + portfolio icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/PERN-Stack-black?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Production-Ready-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Design-Focused-blue?style=flat-square" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=16&pause=2000&center=true&vCenter=true&width=420&lines=Design.+Build.+Scale.+Maintain." />
+  <a href="https://www.pavansohith.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/white" width="22" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:queries.tillusspell@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pavansohith" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/your-handle" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="22" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/tillu002/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="22" />
+  </a>
 </p>
 
 ---
@@ -26,8 +33,8 @@
 
 - Strong experience with the **PERN stack**, PostgreSQL, Prisma, and backend-heavy architectures  
 - Enjoy designing **scalable APIs**, efficient schemas, and maintainable systems  
-- Prefer clean abstractions over quick hacks  
-- Portfolio → **https://www.pavansohith.com**
+- Comfortable owning features end-to-end — from schema design to deployment  
+- Portfolio: **https://www.pavansohith.com**
 
 ---
 
@@ -86,39 +93,16 @@ Official R&D portal for Parul University with integrated resource and infrastruc
 
 ---
 
-## 🧠 Problem Solving & DSA
-
-<p align="left">
-  <a href="https://leetcode.com/tillu002/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-tillu002-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+## 🧠 Problem Solving
 
 <p>
-  Practicing data structures and algorithms with focus on <strong>problem-solving patterns</strong> and <strong>optimization</strong>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:queries.tillusspell@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/pavansohith">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/your-handle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/tillu002">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/tillu002/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="26" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=14&pause=3000&center=true&vCenter=true&width=520&lines=Clean+Architecture.+Readable+Code.+Systems+That+Scale." />
+  <em>Clean architecture, readable code, systems that scale beyond demos.</em>
 </p>
