@@ -1,20 +1,20 @@
 <h1 align="center">Pavan Sohith</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=480&lines=Full+Stack+Engineer;Building+Scalable+Web+Systems;MERN+%7C+PostgreSQL+%7C+Prisma;Learning+Systems+%26+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1200&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;Building+Production-Grade+Web+Systems;PERN+Stack+%7C+Prisma+%7C+PostgreSQL;Learning+Systems+%26+Scalability" />
 </p>
 
 <p align="center">
-  Full Stack Engineer focused on building scalable, production-grade web applications  
+  Full Stack Engineer focused on building scalable, real-world web applications
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- Full-Stack Developer Intern at **Micro-Nano R&D Center, Parul University**
-- Strong experience in **MERN stack**, PostgreSQL, Prisma, and DevOps tooling
-- Interested in **system design, performance, and backend-heavy architectures**
+- Strong experience with **PERN stack**, PostgreSQL, Prisma, and modern backend systems
+- Interested in **system design, performance optimization, and backend-heavy architectures**
+- Comfortable owning features end-to-end — from schema design to deployment
 - Portfolio: **https://www.pavansohith.com**
 
 ---
@@ -28,7 +28,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,redis,kafka" />
 </p>
 
 ### DevOps & Tools
@@ -44,25 +44,35 @@
 *Micro-Nano Research & Development Center, Parul University*  
 _Feb 2025 – Present_
 
-- Developed and deployed a **resource booking platform** for lab equipment worth multiple crores  
-- Built user booking flows, admin approval dashboards, and scheduling logic  
+- Developed and deployed a **production-grade resource booking system** for university research labs  
+- Implemented user booking flows, admin approval dashboards, and availability scheduling  
 - Integrated **Easebuzz payment gateway** for secure real-time transactions  
-- Owned frontend, backend, database schema, and deployments end-to-end  
+- Managed complete system architecture including frontend, backend, database, and deployments  
 
 ---
 
 ## 🚀 Selected Work
 
-- **D Den**  
-  *Freelance Project (BETA)*  
-  Full-stack fashion-tech platform connecting designers with recruiters using AI-powered recommendations
+### **D Den**  
+*Freelance Project (BETA)*  
+🌐 **https://www.dden.in**
 
-- **PUMNRDC – Resource Booking System**  
-  Built during internship for **Parul University**  
-  Production-ready system with payments, admin controls, availability tracking, and revenue workflows
+Full-stack fashion-tech platform connecting designers with recruiters using AI-powered recommendations, portfolios, and discovery workflows.
 
-- **Research & Development Cell Website**  
-  University website with integrated **resource booking and management system**
+---
+
+### **PUMNRDC – Resource Booking System**  
+*Internship Project*  
+🌐 **https://app.paruluniversity.ac.in**
+
+University-wide production system for booking high-value lab equipment with payments, admin workflows, scheduling, and revenue management.
+
+---
+
+### **Research & Development Cell Website**  
+🌐 **https://rdc.paruluniversity.ac.in**
+
+Official university R&D portal with integrated **resource booking and management system**.
 
 ---
 
